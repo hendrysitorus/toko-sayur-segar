@@ -69,7 +69,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>juan frans</h3>
       </div>
 
       <div class="box">
@@ -82,7 +82,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>tesalonika</h3>
       </div>
 
       <div class="box">
@@ -95,7 +95,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>jhon sirait</h3>
       </div>
 
       <div class="box">
@@ -108,7 +108,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>tamara bunga</h3>
       </div>
 
       <div class="box">
@@ -121,7 +121,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>alfonso parjuangan</h3>
       </div>
 
       <div class="box">
@@ -134,7 +134,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>duma riris</h3>
       </div>
 
    </div>
